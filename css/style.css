@@ -523,3 +523,11 @@ h6,
     padding-right: 10rem !important;
     padding-left: 10rem !important;
 }
+
+@media (max-width: 768px) {
+    
+    .px-10 {
+        padding-right: 2rem !important;
+        padding-left: 2rem !important;
+    }
+}
